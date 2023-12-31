@@ -90,6 +90,43 @@ These figures represent the total profits attributed to the top 5 individual cus
 
 ### 6. Top Three(3) Products Bearing the Highest Total Discount.
 
+To pinpoint the top three products carrying the highest total discount, commence the process by creating a pivot table with two pivotal fields - the value field and the row field. Insert the product column in the row field for categorization, and place the discount column in the value field for aggregation. Given our focus on the top three products, click on the discount header, right-click, and opt to sort in descending order. Afterward, select the product header and filter only the top 3 items with the highest total discount. This procedure produces the subsequent results:
+- Storex Dura Pro Binders: 7.2
+- Avery Non-Stick Binders: 6.8
+- GBC Instant Report Kit: 6.4
+
+These figures illustrate the total amount of discounts applied to each specific product, visually represented using a pie chart. Storex Dura Pro Binders lead with a total discount of 7.2, constituting 35% of the overall discount. Avery Non-Stick Binders follow with a total discount of 6.8, representing 33% of the total discount, and GBC Instant Report Kit holds a total discount of 6.4, constituting 32% of the total discount. This information is useful for understanding the extent of discounts applied to different products, aiding in pricing analysis or promotional strategies.
+
+![](Project6.png)
+
+## RECOMMENDATIONS
+
+- Considering the significant contribution of the Consumer segment to overall sales, focus on tailoring marketing strategies and promotions to meet the preferences and needs of this segment.
+- Acknowledging the West Region as the most profitable, invest resources and efforts to further enhance sales and operational efficiency in this region.
+- Given that "Standard Class" is the predominant shipping mode, streamline and optimize logistical processes associated with this mode to ensure efficiency and customer satisfaction.
+- Prioritize inventory management for the top three products by quantity—Easy-staple paper, Staple envelope, and Staples—to meet customer demand and enhance product availability.
+- Foster stronger relationships with the top five customers, especially with Tamara Chand, Raymond Buch, and Sanjit Chand, by offering personalized incentives, ensuring seamless service, and understanding their specific needs.
+- Re-evaluate discount strategies for the top three products with the highest discount—Storex Dura Pro Binders, Avery Non-Stick Binders, and GBC Instant Report Kit—to ensure competitive pricing while maintaining profitability.
+
+## CONCLUSIONS
+
+The comprehensive analysis of the U.S. Superstore Sales Data has unveiled valuable insights across various dimensions of the business. The project has not only addressed key business questions but has also provided actionable recommendations for optimizing sales strategies, enhancing customer satisfaction, and maximizing profitability. Understanding the sales distribution by segment, regional profit variations, shipping mode preferences, top-selling products, and customer profitability positions the business to make informed decisions for sustained growth. The visualizations and analyses conducted throughout the project serve as a foundation for ongoing data-driven decision-making, enabling the company to navigate the competitive landscape of the U.S. Superstore Sales domain with precision and strategic intent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
