@@ -55,7 +55,7 @@ These figures depict the overall profits generated in each region. To visualize 
 ### 3. Number of Sales Across the Top Three Shipping Modes
 
 To identify the sales count across the top three shipping modes, initiate the process by creating a pivot table with two pivot fields. Choose the sales column for the values field to aggregate, and the ship mode column for the row field to categorize. By default, the results will display as a sum. However, since our interest lies in the count of sales, we would modify the aggregation by selecting the sales header and opting to summarize values by count. This adjustment will reaggregate the data, providing the count of sales across the shipping modes.
-To narrow our focus to the top three shipping modes, we would  select the region header, right-click, and choose to filter the top 3. This will yield the following results as:
+To narrow our focus to the top three shipping modes, we would select the sales header and sort in descending order after which select the ship mode column, right-click, and choose to filter the top 3. This will yield the following results as:
 - Standard Class: 5,968 
 - Second Class: 1,945 
 - First Class: 1,538 
@@ -66,7 +66,7 @@ These figures outline the distribution of sales transactions among different shi
 
 ### 4. Top Three(3) Products by Total Quantity
 
-To identify the top three products by total quantity, begin by creating a pivot table with two pivot fields, namely the value and row fields. Select the quantity column for the value field to aggregate, and the products column for the row field for categorization. However, to focus solely on the top three products, choose the product header, right-click, and opt to filter, narrowing down to the first three products with the highest total quantity sold. This process yields the following results:
+To identify the top three products by total quantity, begin by creating a pivot table with two pivot fields, namely the value and row fields. Select the quantity column for the value field to aggregate, and the products column for the row field for categorization. However, to focus solely on the top three products, rightclick the quantity header and sort in descending order. Subsequently select the products header, right-click, and opt to filter, narrowing down to the first three products with the highest total quantity sold. This process yields the following results:
 - Easy-staple paper: 150 units
 - Staple envelope: 170 units
 - Staples: 215 units
@@ -76,6 +76,27 @@ These figures signify the top three products based on total quantity, revealing 
 ![](Project4.png)
 
 ### 5. Top Five(5) Customers by Total Profit
+
+To identify the top five customers by total profit, initiate the process by creating a pivot table with two pivotal fields - the value field and the row field. Place the customers column in the row field for categorization, while the profit column goes into the value field for aggregation. Given our focus on the top five customers, select the profit header, right-click, and choose to sort profit in descending order. Following this, choose the customers header and filter only the top 5 customers with the highest total profit. This process yields the subsequent results:
+- Tamara Chand: $8,981.3
+- Raymond Buch: $6,976.1
+- Sanjit Chand: $5,757.4
+- Hunter Lopez: $5,622.4
+- Adrian Barton: $5,444.8
+
+These figures represent the total profits attributed to the top 5 individual customers and are visually represented with a bar chart. Tamara Chand leads with a total profit of $8,981.3, followed by Raymond Buch with a total profit of $6,976.1, and so forth. This information aids in identifying the most profitable customers and understanding the financial contributions of each customer to the overall profits.
+
+![](Project5.png)
+
+### 6. Top Three(3) Products Bearing the Highest Total Discount.
+
+
+
+
+
+
+
+
 
 
 
